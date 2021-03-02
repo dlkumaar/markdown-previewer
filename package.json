@@ -2,7 +2,7 @@
 	"name": "markdown-previewer",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "'https:dlkumaar.github.io/markdown-previewer",
+	"homepage": "'https://dlkumaar.github.io/markdown-previewer",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.11.9",
 		"@testing-library/react": "^11.2.5",
