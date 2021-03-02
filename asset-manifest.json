@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/'https://dlkumaar.github.io/markdown-previewer/static/css/main.eae29e31.chunk.css",
-    "main.js": "/'https://dlkumaar.github.io/markdown-previewer/static/js/main.a0d509f0.chunk.js",
-    "main.js.map": "/'https://dlkumaar.github.io/markdown-previewer/static/js/main.a0d509f0.chunk.js.map",
-    "runtime-main.js": "/'https://dlkumaar.github.io/markdown-previewer/static/js/runtime-main.b4020eac.js",
-    "runtime-main.js.map": "/'https://dlkumaar.github.io/markdown-previewer/static/js/runtime-main.b4020eac.js.map",
-    "static/js/2.9fbb7a4a.chunk.js": "/'https://dlkumaar.github.io/markdown-previewer/static/js/2.9fbb7a4a.chunk.js",
-    "static/js/2.9fbb7a4a.chunk.js.map": "/'https://dlkumaar.github.io/markdown-previewer/static/js/2.9fbb7a4a.chunk.js.map",
-    "index.html": "/'https://dlkumaar.github.io/markdown-previewer/index.html",
-    "static/css/main.eae29e31.chunk.css.map": "/'https://dlkumaar.github.io/markdown-previewer/static/css/main.eae29e31.chunk.css.map",
-    "static/js/2.9fbb7a4a.chunk.js.LICENSE.txt": "/'https://dlkumaar.github.io/markdown-previewer/static/js/2.9fbb7a4a.chunk.js.LICENSE.txt"
+    "main.css": "/markdown-previewer/static/css/main.eae29e31.chunk.css",
+    "main.js": "/markdown-previewer/static/js/main.a0d509f0.chunk.js",
+    "main.js.map": "/markdown-previewer/static/js/main.a0d509f0.chunk.js.map",
+    "runtime-main.js": "/markdown-previewer/static/js/runtime-main.bfb6febc.js",
+    "runtime-main.js.map": "/markdown-previewer/static/js/runtime-main.bfb6febc.js.map",
+    "static/js/2.9fbb7a4a.chunk.js": "/markdown-previewer/static/js/2.9fbb7a4a.chunk.js",
+    "static/js/2.9fbb7a4a.chunk.js.map": "/markdown-previewer/static/js/2.9fbb7a4a.chunk.js.map",
+    "index.html": "/markdown-previewer/index.html",
+    "static/css/main.eae29e31.chunk.css.map": "/markdown-previewer/static/css/main.eae29e31.chunk.css.map",
+    "static/js/2.9fbb7a4a.chunk.js.LICENSE.txt": "/markdown-previewer/static/js/2.9fbb7a4a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4020eac.js",
+    "static/js/runtime-main.bfb6febc.js",
     "static/js/2.9fbb7a4a.chunk.js",
     "static/css/main.eae29e31.chunk.css",
     "static/js/main.a0d509f0.chunk.js"
